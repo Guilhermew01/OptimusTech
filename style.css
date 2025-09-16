@@ -1,0 +1,145 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    margin: 10px 50px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_logotipo {
+    gap: 8px;
+}
+
+.nav_links {
+    gap: 32px;
+}
+
+.nava_acesso {
+    gap: 12px;
+}
+
+.acesso_Cadastrar {
+    background-color: #8E2424;
+    color: #ffff;
+    padding: 10px 18px;
+    border-radius: 8px;
+}
+
+.secao1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    color: dimgrey;
+    margin: 0;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.diferentes {
+    color: black;
+    height: 7vh;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sobre {
+    color: #8E2424;
+    height: 5vh;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secao2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8E2424;
+}
+
+.conti_secao2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #161616;
+}
+
+.secao3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  flex-direction: row-reverse;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: dimgrey;
+    margin: 9px;
+}
+
+.acompahe {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #000000;
+    height: 10vh;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.final {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: dimgrey;
+}
+
+.cadastro_final {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    gap: 10px;
+
+}
+
+.email {
+    display: flex;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    width: 220px;
+    color: dimgrey;
+}
+
+.cadastroo {
+    display: flex;
+    background-color: #8E2424;
+    color: #ffff;
+    padding: 10px 18px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.OptimusTech{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: dimgrey;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+}
